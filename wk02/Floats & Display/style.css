@@ -1,0 +1,31 @@
+span {
+  background-color: yellow;
+  height: 100px;
+  width: 100px;
+  display: block;
+}
+
+div {
+  background-color: red;
+  height: 100px;
+  width: 100px;
+  float: right;
+  border: 2px solid black;
+  display: inline-block;
+  vertical-align: top;
+}
+
+section {
+  background-color: green;
+  height: 100px;
+  width: 300px;
+  float: right;
+}
+
+div.clear {
+  clear: both;
+  float: none;
+  height: 0;
+  width: 0;
+  border: none;
+}

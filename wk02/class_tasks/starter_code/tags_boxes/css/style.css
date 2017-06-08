@@ -1,0 +1,22 @@
+h1 {
+  background-color: #dd99ff;
+  border: 2px solid #99ff99
+  padding: 10px;
+  margin-bottom: 50px;
+  color: white;
+}
+
+p {
+  background-color: #e6f9ff
+  color: white;
+  border: 20px solid #99ff99;
+  padding: 50px 10px;
+}
+
+ol {
+  color: #ffb3b3;
+}
+
+h2 {
+  color: #00c3ff;
+}
